@@ -1,4 +1,4 @@
-# C-application-using-MongoDB
+# C-Sharp-application-using-MongoDB
 Create a C# application using MongoDB to access Employee data and perform CRUD operations on the MongoDB database
 <br>
 <b>Following tasks were performed <b><br>
